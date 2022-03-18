@@ -1,15 +1,4 @@
-//Project created by Yeskov Yegor
-
-/*
- Источники:
- https://alexgyver.ru/meteoclock/
- https://www.2150692.ru/faq/87-co2-mhz19-arduino
- https://www.youtube.com/watch?v=obB6lKffV90&ab_channel=ArduinoTV
- https://habr.com/ru/post/391157/
- */
-
-/*
- ПОДКЛЮЧЕНИЯ
+/* ПОДКЛЮЧЕНИЯ
 
  BME:
  vcc - power
